@@ -1,0 +1,10 @@
+c:\users\midori\documents\visual studio 2013\Projects\Letrillas\LetrasMoxxas\bin\Debug\LetrasMoxxas.exe.config
+C:\Users\Midori\Documents\Visual Studio 2013\Projects\Letrillas\LetrasMoxxas\bin\Debug\LetrasMoxxas.exe
+C:\Users\Midori\Documents\Visual Studio 2013\Projects\Letrillas\LetrasMoxxas\bin\Debug\LetrasMoxxas.pdb
+C:\Users\Midori\Documents\Visual Studio 2013\Projects\Letrillas\LetrasMoxxas\obj\Debug\LetrasMoxxas.csprojResolveAssemblyReference.cache
+C:\Users\Midori\Documents\Visual Studio 2013\Projects\Letrillas\LetrasMoxxas\obj\Debug\LetrasMoxxas.acercade.resources
+C:\Users\Midori\Documents\Visual Studio 2013\Projects\Letrillas\LetrasMoxxas\obj\Debug\LetrasMoxxas.Form1.resources
+C:\Users\Midori\Documents\Visual Studio 2013\Projects\Letrillas\LetrasMoxxas\obj\Debug\LetrasMoxxas.Properties.Resources.resources
+C:\Users\Midori\Documents\Visual Studio 2013\Projects\Letrillas\LetrasMoxxas\obj\Debug\LetrasMoxxas.csproj.GenerateResource.Cache
+C:\Users\Midori\Documents\Visual Studio 2013\Projects\Letrillas\LetrasMoxxas\obj\Debug\LetrasMoxxas.exe
+C:\Users\Midori\Documents\Visual Studio 2013\Projects\Letrillas\LetrasMoxxas\obj\Debug\LetrasMoxxas.pdb
